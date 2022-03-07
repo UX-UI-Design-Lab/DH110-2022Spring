@@ -32,7 +32,7 @@ Week    |       Topics      |   Activity+References      |   Assignments
 7       | [Prototyping-2](#) | [LectureNote07](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote07:-High-Fidelity-Prototype) | [A07: High Fidelity Prototype](https://docs.google.com/document/d/1LltO1JjHY3sNvBx4Td5mKKoV5-ZhzHtby1V2-4lPnSo/edit?usp=sharing)
 8       | [Iterative Process](https://docs.google.com/presentation/d/1KdyeNSYpklUL-DrEW1b9cNoiee8j2727Htltk3Cp1Y8/edit?usp=sharing) | [LectureNote08](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote08:-Iterative-Process--Evaluations) | [Extra Credit: Usability Testing](#)
 9       | [UX Portfolio](https://docs.google.com/presentation/d/1Db_THpHtLrG1aPdbeVjtdN65IbdqmRJEOICGHhH3_r0/edit?usp=sharing) | [LectureNote09](https://github.com/UX-UI-Design-Lab/DH150-wikis/wiki/LectureNote09:-web-documentation) | [A08: Pitch](https://docs.google.com/document/d/1mpoWvFlYYbBKdd1jH14gEwKGOi-H3TupgB4VlLTjx6M/edit?usp=sharing)
-10      | [Review](https://docs.google.com/presentation/d/1ml4GIGeRMcHNlJj0sz9MQpsJMb06UYmdnH0YaHifVRA/edit?usp=sharing) | [FinalProjectEvaluation](#) | [A09: Peer Review](https://docs.google.com/document/d/1TVe194HGjYE4HpVKa6Q5PNX3Zoz0tlcoDeTfWflQwEw/edit?usp=sharing)
+10      | [Review](https://docs.google.com/presentation/d/1ml4GIGeRMcHNlJj0sz9MQpsJMb06UYmdnH0YaHifVRA/edit?usp=sharing) | [Final Project Evaluation](#) | [A09: Peer Review](https://docs.google.com/document/d/1TVe194HGjYE4HpVKa6Q5PNX3Zoz0tlcoDeTfWflQwEw/edit?usp=sharing)
 
 
 ---
